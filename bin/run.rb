@@ -12,4 +12,4 @@ song.save
 
 DB[:conn].execute("SELECT * FROM songs")
 
-Pry.Start
+Pry.start
